@@ -12,6 +12,7 @@ header.hero p { margin: 0; color: #A9B1AC; }
 .tag.work { background: var(--work); color: #fff; }
 section.card { background: var(--surface); border: 1px solid var(--border); border-radius: 16px; padding: 20px; margin-top: 18px; }
 h2 { font-size: 19px; margin: 28px 0 8px; line-height: 1.4; }
+h3 { font-size: 16px; margin: 20px 0 6px; line-height: 1.4; }
 section.card h2 { margin-top: 0; }
 ul { padding-left: 20px; margin: 8px 0; }
 a { color: var(--work); }
